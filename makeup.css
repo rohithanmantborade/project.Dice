@@ -1,0 +1,31 @@
+.wallpoet-regular {
+    font-family: "Wallpoet", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{
+      text-align: center;
+     font-size: 100px;
+     text-shadow:8px 0 rgb(190, 190, 151) ;
+  }
+html{
+   background: linear-gradient(90deg,rgb(221, 221, 18),rgb(182, 138, 138));
+   
+}
+.container{
+ text-align: center;
+                                              
+}
+.dice{
+   text-align: center;
+   display: inline-block;
+   margin:10px;
+}
+p{
+   font-size: 30px;
+}
+footer{
+   text-align: center;
+   margin-top: 80px;
+   font-size: 20px;
+}
